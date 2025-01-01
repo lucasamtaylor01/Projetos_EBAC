@@ -1,19 +1,16 @@
-# Projeto Exemplo
+# EBAC: Profissão cientista de dados
 
-(((em construção...) 
+## 📝 Descrição
+Este projeto é o conjunto das atividades fornecidas no curso Profissão cientista de dados oferecido pela EBAC
 
-## Descrição
-Este projeto faz XYZ...
-
-## Instalação
+## ⚙️ Instalação
 1. Clone o repositório.
 2. Instale as dependências.
+3. Execute o programa selecionado
 
-## Uso
-Execute o seguinte comando...
+## 🤝 Contribuição
+Este é um projeto faz parte do meu processo de aprendizagem em programação Python focado em _Data Science_. Por ser um projeto educacional pessoal, não requer contribuições externas. Para mais informações, consulte o arquivo LICENSE.
 
-## Contribuição
-Siga as diretrizes de contribuição.
 
-## Licença
-Este projeto está sob a licença XYZ.
+## 🛡️ Licença
+Este projeto está sob a licença MIT.
